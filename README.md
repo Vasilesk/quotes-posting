@@ -10,7 +10,7 @@ It is just a practice project. So the description is provided only in Russian. [
 * PyQt5
 * psycopg2
 
-### DB schema###
+### DB schema ###
 
 DB schema can be found in **extra/db.sql**
 
